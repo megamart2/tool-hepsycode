@@ -32,7 +32,7 @@ Official Github repository: https://github.com/vittorianomuttillo/tool-hepsycode
  5. Install systemc library (it is recommended version 2.3.0)
  6. Go to /home/.bashrc and insert the path of systemc (folder lib-linux and include) the names of variable must be SYSTEMCPATHLIB and SYSTEMCPATHINCLUDE for example:
     - export SYSTEMCPATHLIB=/usr/local/systemc-2.3.0a/lib-linux64
-	  - export SYSTEMCPATHINCLUDE=/usr/local/systemc-2.3.0a/include
+    - export SYSTEMCPATHINCLUDE=/usr/local/systemc-2.3.0a/include
     - Alternative: launch settings.sh script
  7. Try and enjoy Hepsycode Tool!!!
 
